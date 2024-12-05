@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- The default font for RecyclerView items is too small.
+    The margin is a simple delimiter between the tasks. -->
+    <style name="task_title">
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:padding">16dp</item>
+<!--        <item name="android:background">@drawable/card_background</item>-->
+        <item name="android:elevation">4dp</item>
+        <item name="android:radius">8dp</item>
+        <item name="android:background">?android:attr/listDivider</item>
+    </style>
+</resources>

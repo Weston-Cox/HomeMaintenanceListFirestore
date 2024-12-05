@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Home Maintenance List</string>
+    <string name="add_word">Add Task</string>
+    <string name="default_text">lorem ipsum</string>
+    <string name="button_save">Save</string>
+    <string name="hint_word">To-Do Title</string>
+    <string name="empty_not_saved">Task not saved because it is empty.</string>
+    <string name="channel_name">Task List Notification Channel</string>
+    <string name="channel_description">Primary Notification Channel for the Home Maintenance List</string>
+    <string name="default_date">10/16/24 11:59 PM</string>
+    <string name="ItemInfoContent">Details...</string>
+    <string name="complete">Complete</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="home_maintenance_list">Home Maintenance List</string>
+    <string name="details">Details...</string>
+    <string name="EXTRA_NOTIFICATION_ID">EXTRA_ID</string>
+    <string name="EXTRA_TITLE">EXTRA_TITLE</string>
+    <string name="your_web_client_id">biglongstring.apps.googleusercontent.com</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+
+</resources>

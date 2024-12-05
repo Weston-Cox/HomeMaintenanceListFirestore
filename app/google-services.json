@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496212976759",
+    "project_id": "firestore-database-ca64a",
+    "storage_bucket": "firestore-database-ca64a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496212976759:android:57d0c711029c209cd7d272",
+        "android_client_info": {
+          "package_name": "edu.uark.westonc.homemaintenancelist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA38AaRFINrln0fJIIEeTyr9jGfmXKWPdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
